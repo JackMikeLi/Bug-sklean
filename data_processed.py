@@ -231,7 +231,7 @@ def start():
     df_one_hot = one_hot_code(data,length)
     print(df_hand)
     print(df_one_hot)
-start()
+#start()
 
 
 
